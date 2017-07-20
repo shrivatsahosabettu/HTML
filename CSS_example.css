@@ -1,0 +1,20 @@
+body    {background-color: powderblue;
+    }
+h1      {color: blue;
+        font-family: monospace;
+        font-size: 200%
+    }
+p       {color: rebeccapurple;
+        border: 1px solid green;
+        padding: 30px;
+        margin: 50px;
+    }
+#p01     {
+    color: blue;
+    border: 2px solid yellow;
+    padding: 10px;
+    margin: 20px;
+}
+p.error{
+    color: red;
+}
